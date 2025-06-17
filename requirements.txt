@@ -2,3 +2,4 @@ python-telegram-bot==20.7
 yt-dlp
 instaloader
 python-dotenv
+ffmpeg-python
